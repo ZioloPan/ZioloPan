@@ -1,7 +1,7 @@
 ZioloPan/README.md
-Hi there ✋
-I'm a first-year Computer Science and Intelligent Systems student at AGH UST
-I'm currently learning Python and C languages
+### Hi there ✋
+- I'm a first-year Computer Science and Intelligent Systems student at AGH UST
+- I'm currently learning Python and C languages
 
 
 
