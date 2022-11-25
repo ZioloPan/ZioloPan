@@ -1,4 +1,9 @@
-### Hi there 👋
+ZioloPan/README.md
+Hi there ✋
+I'm a first-year Computer Science and Intelligent Systems student at AGH UST
+I'm currently learning Python and C languages
+
+
 
 <!--
 **ZioloPan/ZioloPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
