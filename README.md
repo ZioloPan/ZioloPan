@@ -3,6 +3,7 @@
 - I'm a first-year Computer Science and Intelligent Systems student at AGH UST
 - I'm currently learning Python and C languages
 
+Check my page: [LINK](https://ziolopan.github.io/)
 
 
 <!--
